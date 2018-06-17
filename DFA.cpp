@@ -1,5 +1,5 @@
 /*
-  Deterministic Finite Autometa
+  Deterministic Finite Automaton
   Can be used in KMP Algorithm
  */
 
