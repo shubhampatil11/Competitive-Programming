@@ -26,7 +26,7 @@ struct STLazy {
     }
 
     void pushup(int node) {
-    	/** Merging Logid **/
+    	/** Merging Logic **/
         T[node].sum = T[2 * node].sum + T[2 * node + 1].sum;
     }
 
